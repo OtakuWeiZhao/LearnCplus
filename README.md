@@ -26,6 +26,6 @@ void swap( string s1, string s2 )  // string类的对象s1和s2作为函数参数
 	cout << "交换为:str1 = " << s1 << " str2 = " << s2 << endl;
 }
 ```
-输出结果如下:
+输出结果如下:  
 交换为: str1 = 过去 str2 = 现在  
 返回后: str1 = 现在 str2 = 过去
