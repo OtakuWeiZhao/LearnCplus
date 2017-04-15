@@ -22,4 +22,4 @@ int main()
 }
 ```
   
-[打印结果:](https://github.com/OtakuWeiZhao/LearnCplus/blob/master/learnPointer/picture/lcp1.PNG)
+![打印结果:](https://github.com/OtakuWeiZhao/LearnCplus/blob/master/learnPointer/picture/lcp1.PNG)
